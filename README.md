@@ -1,6 +1,7 @@
 # StyleGuide
 A general style guide for writing purposes to make text more uniform.
 
+-----------------------------------------------------------------------
 **Marcotoa’s style guide (V1.075)**  
 Note: This style is influenced by MLA, Oxford, AP, UN, Chicago, BBC and The Guardian. This guide generally emphasises the use of respectful language, spelling, punctuation and word phrasing. This style guide is region-neutral (British, American, Canadian and Australian English are acceptable), and gives advice for each entry to advise the writer how they should write. This style guide is mostly prescriptive for many rules, but some are more flexible or descriptive (analysing how they “actually” speak). This guide can be used for their own projects.
 
