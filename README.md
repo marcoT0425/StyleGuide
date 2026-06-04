@@ -284,9 +284,6 @@ Note also do not mutate the text for quotations.
 
 **C**
 
-**Café**  
-Note the accent. 
-
 **Cancelled**  
 Use double-l in British English, canceled in AmE.
 
@@ -338,14 +335,14 @@ Avoid spammy language, use descriptive hyperlinks instead.
 **Cloud**  
 Not capitalised unless it is a part of a proper product name.
 
-**Crêpe**  
-Must include accents.
-
 **Coca-Cola**  
 Note hyphen and also never use it as a noun or a verb.
 
 **Coexist**  
 No hyphen.
+
+**Colour**
+is the British spelling. The American spelling is color. Also it is always spelled "color" in HTML.
 
 **Combated**  
 Not combatted
