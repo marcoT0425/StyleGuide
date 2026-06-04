@@ -7,7 +7,9 @@ Note: This style is influenced by MLA, Oxford, AP, UN, Chicago, BBC and The Guar
 
 Note: **There may be contexts that are misleading, disparaging or offensive.**
 
-**A**
+-----------------------------------------------------------------------
+
+# A
 
 **A or an? (per BBC)**  
 Use “a” before a vowel sound and “an” for a consonant sound. There are some words you need to pay attention, which are:
@@ -83,6 +85,9 @@ Use “among”. “Amongst” is acceptable in BrE but may sound overly formal 
 **Antisemitism**  
 One word without hyphen. 
 
+**Archaeology**
+Is the preferred spelling, not archeology.
+
 **App**  
 Use as a standalone word unless in a very formal specification.
 
@@ -95,7 +100,7 @@ Note spelling, must use the American “Labor”
 **Ax or Axe?**  
 Use “axe” in BrE while “ax” in AmE.
 
-**B**
+# B
 
 **Baby boomer**  
 Banned. Use older adults.
@@ -283,7 +288,7 @@ You must keep the original spelling for the official names etc, eg “Australian
 
 Note also do not mutate the text for quotations.
 
-**C**
+# C
 
 **Cancelled**  
 Use double-l in British English, canceled in AmE.
@@ -384,7 +389,7 @@ Banned as a verb even in the sense of “damage”.
 **Cybersecurity, cyberspace, cyberattack, cybercrime, cybercafé etc**  
 No hyphen.
 
-**D**
+# D
 
 **Dashes (Em or En?)**  
 Use an en-dash (–) with spaces for parenthetical thoughts – like this – in British style. Use an em-dash (—) without spaces—like this—for American style.
@@ -438,7 +443,7 @@ Hyphenated.
 **Drunk**   
 Say I have drunk, not drank, though some speakers say it to avoid the stigma. Use “toxicicated” instead of “drunk” to describe drinking habits.
 
-**E**
+# E
 
 **Earth**  
 Capitalise Earth only when referring to the planet itself.
@@ -494,7 +499,7 @@ More than one exclamation mark is banned in formal writing.
 **Exotic**  
 Avoid describing people or cultures as “exotic”, use nationalities instead.
 
-**F**
+# F
 
 **FAQ**  
 Plural FAQs, no periods.
@@ -507,6 +512,7 @@ Use “woman” or “girls”
 
 **Fetus**  
 Not foetus  
+
 **Fewer and less**  
 Use “fewer” for countable nouns, “less” for uncountable nouns, eg fewer people, less bureaucracy, also the use of fewer also applies in percentages, eg **Fewer** than 30% of the **patients** were rescued. For heights, you must use “less”.
 
@@ -534,7 +540,7 @@ Hyphenate when used as an adjective or a noun, eg a two-thirds majority.
 **Full stops (spaces after)**  
 Always use a single space after a full stop. Never use double spaces, which is now obsolete.
 
-**G**
+# G
 
 **Gay**  
 Use as an adjective, not a noun, eg gay people NOT the gays. Also avoid it as a cliché, eg saying “that’s so gay” is homophobic.
@@ -560,7 +566,7 @@ Do not use it as a verb, eg to google, say to browse in Google.
 **Grey**  
 Use “grey” for British English. Both grey and gray are accepted in American English.
 
-**H**
+# H
 
 **Handheld**  
 One word.
@@ -591,6 +597,7 @@ Do not use it. Use the singular “they” as a gender-neutral pronoun.
 
 **Homeless, the**  
 Avoid, say “People experiencing homelessness”.   
+
 **Homepage**  
 One word.
 
@@ -669,7 +676,7 @@ Some words do not need hyphens, eg:
 * Wildfire  
 * Xbox
 
-**I**
+# I
 
 **ID**  
 No periods, plural is IDs.
@@ -751,7 +758,7 @@ Its is a possessive adjective, eg “the dog wagged its tail” (note never use 
 **iPhone, iPad, iPod etc**  
 Always lowercase “i”
 
-**J**
+# J
 
 **Job Titles**  
 Use lowercase for generic roles, eg the doctor, the consultant.
@@ -759,7 +766,12 @@ Use lowercase for generic roles, eg the doctor, the consultant.
 **Judgment and judgement**  
 In British English, except for legal contexts where judgment is the standard, use judgement for other contexts. In American English, always use “judgment”.
 
-**L**
+# K
+
+**Koran**
+Avoid. See "Qur'an".
+
+# L
 
 **Landline**  
 One word
@@ -782,7 +794,7 @@ One word as a noun/adjective, eg “Enter your login details”, two words if it
 **Lowercase, uppercase**  
 One word.
 
-**M**
+# M
 
 **Mainstream**  
 One word
@@ -816,7 +828,8 @@ Not Moslem
 
 **Multi-**   
 Closed outside words with double-i, eg multi-institutional or the word “multi-ethnic”  
-**N**
+
+# N
 
 **Nationality**  
 Always capitalised, and when forming adjectives, there are some suffixes, which are:
@@ -855,7 +868,7 @@ Exceptions: Always use numerals for:
 
 Also, **never** start a sentence with a numeral, e.g. forty-two **people attend**…, not **42 people**.
 
-**O**
+# O
 
 **Offline, online**  
 One word, no hyphen
@@ -863,7 +876,7 @@ One word, no hyphen
 **Over, more than**  
 Interchangeable, but more than is often preferred in formal contexts
 
-**P**
+# P
 
 **Passer-by**  
 Plural passers-by
@@ -911,7 +924,7 @@ Avoid as it suggests American English as default while viewing British as second
 **Prostitute**  
 Avoid, use “sex worker”
 
-**Q**
+# Q
 
 **Quotation marks: (per BBC)**  
 Use single quotes if
@@ -929,7 +942,7 @@ No quotes are required for film, TV or song titles. You must use initial caps.
 **Qur’an, Qur’anic**  
 Note apostrophe and never “Koran”
 
-**R**
+# R
 
 **Regions**  
 Capitalise all recognised regions, the West Midlands.
@@ -937,7 +950,7 @@ Capitalise all recognised regions, the West Midlands.
 **Runner-up**  
 Hyphenated and plural is “runners-up”
 
-**S**
+# S
 
 **Sámi**  
 Note the accent and never “Lapp(lander)”.
@@ -995,7 +1008,7 @@ Never capitalise the entire surname, use John Smith, not John SMITH.
 **Sync**  
 Not synch
 
-**T**
+# T
 
 **Talking about trends**  
 To talk about trends, you should follow these guidelines:
@@ -1031,7 +1044,7 @@ Use towards in British English and toward in American English.
 **Türkiye**  
 Formerly Turkey, also note capitalisation and umlaut in the “ü”.
 
-**U**
+# U
 
 **Underway or under way?**  
 Use “underway” for two words as an adjective while one word (under way) as an adverb.
@@ -1048,7 +1061,7 @@ Must be written in lowercase and make sure you have avoided http:// or www.
 **Username**  
 One word without hyphen
 
-**V**
+# V
 
 **Victim**  
 Avoid for long-term conditions
@@ -1056,7 +1069,7 @@ Avoid for long-term conditions
 **Virtual Reality (VR)**  
 Spell out on first use, followed by the acronym in brackets.
 
-**W**
+# W
 
 **Web, website**  
 No hyphen and not capitalised.
@@ -1081,8 +1094,16 @@ Never use as a verb, eg say “play a Wordle puzzle” instead of “to Wordle�
 **WordleBot**  
 Note camelcase.
 
-**Y**
+# X
+
+**X-ray**
+Note capital X with a hyphen.
+
+# Y
 
 **You**  
 It is recommended to use the second-person “you” as an address rather than the indirect, stiff “one” for commands.
 
+# Z
+
+No entries.
