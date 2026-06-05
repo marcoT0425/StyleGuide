@@ -21,6 +21,8 @@ Use “a” before a vowel sound and “an” for a consonant sound. There are s
 * A unicorn  
 * A unique place (pronounced as “you”)  
 * A university
+* An honor
+* An heirloom
 
 Do not use a/an based on the spelling. You need to pronounce the word once, then if it is a vowel, use “an”, otherwise, “a”.  
 There are also some exceptions, for the word “herb”, in British English, the “h” is pronounced, therefore, “a herb”, but in American English, it is pronounced as “erb” with a silent “h”, therefore, “an herb”.
